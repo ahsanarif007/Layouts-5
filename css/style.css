@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 60px;
+    background-color: brown;
+    text-align: center;
+}
+.body{
+    display: flex;
+    text-align: center;
+}
+.menu{
+    width: 25%;
+    background-color: cadetblue;
+    height: 700px;
+}
+.content{
+    width: 75%;
+    height: 700px;
+}
+.topper{
+    height: 60%;
+    display: flex;
+
+}
+.left{
+    width: 50%;
+    background-color: azure;
+
+}
+.right{
+    width: 50%;
+    background-color: burlywood;
+
+}
+.footer{
+    height: 40%;
+    background-color: rgb(114, 109, 109);
+    color: aliceblue;
+
+}
